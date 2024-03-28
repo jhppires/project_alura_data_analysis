@@ -1,0 +1,4 @@
+mplfinance==0.12.10b0
+pandas==1.5.3
+plotly==5.9.0
+yfinance==0.2.37
